@@ -117,7 +117,7 @@ body{
     color: #f3f3f3;
     text-align: center;
     padding: 10px;
-    font-size: 20px;
+    font-size: 23px;
     transition: opacity 0.3s ease-in-out;
 }
 
@@ -134,5 +134,5 @@ body{
 }
 
 .redes-sociais .github{
-    background-color: #545454;
+    background-color: #080808;
 }
